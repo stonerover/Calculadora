@@ -1,0 +1,17 @@
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\bin\Debug\net6.0-windows\CalculadoraTreino.exe
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\bin\Debug\net6.0-windows\CalculadoraTreino.deps.json
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\bin\Debug\net6.0-windows\CalculadoraTreino.runtimeconfig.json
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\bin\Debug\net6.0-windows\CalculadoraTreino.dll
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\bin\Debug\net6.0-windows\CalculadoraTreino.pdb
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.csproj.AssemblyReference.cache
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.csproj.GenerateResource.cache
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.AssemblyInfoInputs.cache
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.AssemblyInfo.cs
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.dll
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\refint\CalculadoraTreino.dll
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.pdb
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.genruntimeconfig.cache
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\ref\CalculadoraTreino.dll
+E:\Visual Studio\Projetos\Teste\CalculadoraTreino\obj\Debug\net6.0-windows\CalculadoraTreino.frmPrincipal.resources
